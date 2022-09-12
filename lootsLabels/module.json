@@ -1,0 +1,1 @@
+{"id": "lootsLabels", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/lootsLabels/lootsLabels.ltmod", "name": "LootsLabels Module", "version": "0.0.3", "author": "Darye", "changelog": "Fixed Labels not working if the value was not available. (Example: No one bought packs on a month.)", "needsRestart": false}
