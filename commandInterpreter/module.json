@@ -1,1 +1,1 @@
-{"id": "commandInterpreter", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/commandInterpreter/commandInterpreter.ltmod", "name": "Command Interpreter", "version": "0.0.10", "author": "Darye", "changelog": "Fixed params on functions.", "needsRestart": false}
+{"id": "commandInterpreter", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/commandInterpreter/commandInterpreter.ltmod", "name": "Command Interpreter", "version": "0.0.11", "author": "Darye", "changelog": "Added break block and fixed ifs and loops", "needsRestart": false}
