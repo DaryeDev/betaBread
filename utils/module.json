@@ -1,1 +1,1 @@
-{"id": "utils", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/utils/utils.ltmod", "name": "Utils", "version": "0.0.3", "author": "Darye", "changelog": "translateServicesUserIds", "needsRestart": false}
+{"id": "utils", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/utils/utils.ltmod", "name": "Utils", "version": "0.0.4", "author": "Darye", "changelog": "translateServicesUsers gets the whole userInfo.", "needsRestart": false}
