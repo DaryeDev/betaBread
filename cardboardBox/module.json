@@ -1,1 +1,1 @@
-{"id": "cardboardBox", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/cardboardBox/cardboardBox.ltmod", "name": "cardboardBox", "version": "0.0.2", "author": "Darye", "changelog": "cardReplacementDict[cardID]", "needsRestart": false}
+{"id": "cardboardBox", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/cardboardBox/cardboardBox.ltmod", "name": "cardboardBox", "version": "0.0.3", "author": "Darye", "changelog": "Added tkinter dependency.", "needsRestart": false}
