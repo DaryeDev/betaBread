@@ -1,1 +1,1 @@
-{"id": "websockets", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/websockets/websockets.ltmod", "name": "WebSockets Manager", "version": "0.0.11", "author": "Darye", "changelog": "little bug", "needsRestart": true}
+{"id": "websockets", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/websockets/websockets.ltmod", "name": "WebSockets Manager", "version": "0.0.11", "author": "Darye", "changelog": "Added .ltc and .ltcol support.", "needsRestart": true}
