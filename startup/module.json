@@ -1,1 +1,1 @@
-{"id": "startup", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/startup/startup.ltmod", "name": "Startup Module", "version": "0.0.7", "author": "Darye", "changelog": "Added beta UI.", "needsRestart": false}
+{"id": "startup", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/startup/startup.ltmod", "name": "Startup Module", "version": "0.0.8", "author": "Darye", "changelog": "Added .ltc and .ltcol support.", "needsRestart": false}
