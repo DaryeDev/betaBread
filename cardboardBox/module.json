@@ -1,1 +1,1 @@
-{"id": "cardboardBox", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/cardboardBox/cardboardBox.ltmod", "name": "cardboardBox", "version": "0.0.5", "author": "Darye", "changelog": "Faster Collection packing and unpacking", "needsRestart": false}
+{"id": "cardboardBox", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/cardboardBox/cardboardBox.ltmod", "name": "cardboardBox", "version": "0.0.6", "author": "Darye", "changelog": "Added locales.", "needsRestart": false}
