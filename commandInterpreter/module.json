@@ -1,1 +1,1 @@
-{"id": "commandInterpreter", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/commandInterpreter/commandInterpreter.ltmod", "name": "Command Interpreter", "version": "0.0.13", "author": "Darye", "changelog": "translateUser now gets Usernames (if possible). ", "needsRestart": false}
+{"id": "commandInterpreter", "url": "https://raw.githubusercontent.com/DaryeDev/betaBread/master/commandInterpreter/commandInterpreter.ltmod", "name": "Command Interpreter", "version": "0.0.14", "author": "Darye", "changelog": "Added Streamloots Blocks.", "needsRestart": false}
